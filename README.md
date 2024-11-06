@@ -1,6 +1,6 @@
 # newjeevantikacustomerswebsite
 
-A new Flutter project.
+A new Flutter Web project.
 its in the process so this is not responsive 
 
 
